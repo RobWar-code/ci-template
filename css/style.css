@@ -34,7 +34,7 @@ nav a:hover {
 .card {
     float: left;
     width: 20%;
-    margin: 10%
+    margin-right: 10%;
 }
 
 .card a {
